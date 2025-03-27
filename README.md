@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thomas Parenteau</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **an Action REAction webapp in node.js/react**
+- 🔭 I’m currently working with the IT Consulting Firm [Ormaes](https://ormaes.fr)
 
-- 🌱 I’m currently learning **DevOps (Kubernetes, Ansible, CI/CD Jenkins)**
+- 🌱 I’m currently learning **DevOps (Kubernetes, Ansible, CI/CD Jenkins) && game engine development concepts, such as ECS architecture, physics integration (e.g., Jolt Physics).**
 
-- 👨‍💻 All of my projects are available at [WIP](WIP)
-
-- 💬 Ask me about **C, CPP, Python, Node.JS**
+- 💬 Ask me about **C, CPP, Dart, Swift, Node.JS**
 
 - 📫 How to reach me **thomas.parenteau@epitech.eu**
 
